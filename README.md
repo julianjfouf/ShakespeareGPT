@@ -1,7 +1,7 @@
 This repo contains my very first experience with building a GPT and training it on a text dataset.
 
 A couple comments and notes I would like to make:
-- I am very thankful to Andrej Karpathy for his youtube lecture series. Thanks to his work, I was able to very quickly learn and understand how neural networks operate and his lectures enabled me to advance this fast.
+- I am very thankful to Andrej Karpathy for his <a href="https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ">youtube lecture series</a>. Thanks to his work, I was able to very quickly learn and understand how neural networks operate and his lectures enabled me to advance this fast.
 - This is, for the most part, basically a carbon copy of the code written by Karpathy in the lecture.
 - However, because of the instructiveness of the lectures, I was able to very heavily annotate this notebook, line by line, to explain how the GPT architecture works and thrives on multi head attention
 - I am uploading this to github about 3 months after I initially worked on this notebook.
